@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+# Optional dependencies
+pandas
+python-dotenv
